@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="-;T.k5%*fk3,l}RHz3Z-" x="297" y="-136"><statement name="HANDLER"><block type="device_show_leds" id="RC[#v~2YR%ixvzW`]%Q}"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="cpFUZPJT(p|Z+krwu;Z3"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="basic_show_icon" id="tB-9^mWeqx9v@8~@FX5c"><field name="i">IconNames.Sad</field><next><block type="basic_show_icon" id="E)L.sTI;ukk+VHMvMidb"><field name="i">IconNames.Angry</field><next><block type="device_print_message" id="0-[OtRQujR!M{35(*hEn"><value name="text"><shadow type="text" id="N0a#8vF)aYo{2jcb!z1e"><field name="TEXT">DASH!, I'M HUNGRY.</field></shadow></value></block></next></block></next></block></next></block></next></block></statement></block><block type="device_show_leds" id="xK}w]Tu9dlqRrY_~SGfd" disabled="true" x="0" y="0"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . # . 
+        . . . # .
+        `</field></block><block type="playMelody" id="obPqcUZoh7F(Fa/G1(wW" disabled="true" x="-187" y="248"><value name="melody"><shadow type="melody_editor" id="U3mi0aZJ,ohNQP/a:sAe" disabled="true"><field name="melody">"- - - - - - - - "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="PHkY-*i43[,vJvLfBGbP" disabled="true"><mutation min="40" max="500" label="Number" precision="0"/><field name="SLIDER">120</field></shadow></value></block></xml>
